@@ -1,0 +1,8 @@
+# Boral Yol Yardım - Tokat Zile Çekici
+# https://boralyolyardim.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://boralyolyardim.com/sitemap.xml
